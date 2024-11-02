@@ -16,7 +16,7 @@ const Main = () => (
     <Router>
       <Nav />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/TestYantra' element={<Home />} />
         <Route path='/services' element={<AboutUs />} />
         <Route path='/getInTouch' element={<GetInTouch />} />
         <Route path='/article' element={<Articles />} />
