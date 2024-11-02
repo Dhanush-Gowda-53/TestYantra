@@ -1,0 +1,22 @@
+.image{
+    width: 590px;
+    height: 387px;
+    /* border: 2px solid yellowgreen; */
+    display: flex;
+    border-radius: 18px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.sliding{
+    width: 600px;
+    height: 387px;
+    margin: 0px auto;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slick-dots li button:before{
+    color: #f27f3d;
+}
