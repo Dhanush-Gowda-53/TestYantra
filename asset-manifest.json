@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TestYantra/static/css/main.b7165de8.css",
-    "main.js": "/TestYantra/static/js/main.71a5fb5f.js",
+    "main.js": "/TestYantra/static/js/main.a43bc110.js",
     "static/media/asset 12.png": "/TestYantra/static/media/asset 12.3d9f53ac287838444e2a.png",
     "static/media/asset 12.jpeg": "/TestYantra/static/media/asset 12.812215214f3987ffa671.jpeg",
     "static/media/asset 21.png": "/TestYantra/static/media/asset 21.a6455b155f4964e91f73.png",
@@ -45,10 +45,10 @@
     "static/media/asset 23.svg": "/TestYantra/static/media/asset 23.37d03cff988653deee6007bfbb69f5ec.svg",
     "static/media/asset 20.svg": "/TestYantra/static/media/asset 20.f578e7266f41fa0d9bb0.svg",
     "main.b7165de8.css.map": "/TestYantra/static/css/main.b7165de8.css.map",
-    "main.71a5fb5f.js.map": "/TestYantra/static/js/main.71a5fb5f.js.map"
+    "main.a43bc110.js.map": "/TestYantra/static/js/main.a43bc110.js.map"
   },
   "entrypoints": [
     "static/css/main.b7165de8.css",
-    "static/js/main.71a5fb5f.js"
+    "static/js/main.a43bc110.js"
   ]
 }
