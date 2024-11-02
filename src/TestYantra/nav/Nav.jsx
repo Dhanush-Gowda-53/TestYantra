@@ -8,11 +8,11 @@ const Nav = () => {
     <nav className={Style.navBar}>
       <div className={Style.navcont}>
         <div className={Style.name}>
-          <h1><Link to='/TestYantra'><img src={image1} alt="" /></Link></h1>
+          <h1><Link to='/'><img src={image1} alt="" /></Link></h1>
         </div>
         <div className={Style.list}>
           <ul>
-            <li><Link to='/TestYantra'>Home</Link></li>
+            <li><Link to='/'>Home</Link></li>
             <li><Link >Services<MdOutlineKeyboardArrowDown className={Style.arrow}/></Link> <ul className={Style.dropDown}> <li><Link to='/services'>Software Testing (TaaS)</Link></li><li><Link to='/SoftwareDev'>Software Development</Link></li><li><Link to='/SkillEnhance'>Skill Enhancement</Link></li><li><Link to='/ITConsultant'>IT Consultant</Link></li><li><Link to='/CrowdTesting'>Crowd Testing</Link></li> </ul> </li>
             <li><Link >Partners<MdOutlineKeyboardArrowDown className={Style.arrow}/></Link> <ul className={Style.dropDown}> <li><Link to='/FireFlink'>FireFlink</Link></li></ul></li>
             <li><Link to='/article'>Articles</Link></li>
